@@ -1,0 +1,20 @@
+Meeting Minutes for 3/3/2018:
+
+Meeting Attendance: (list all students who were present) [1 minute]
+	Put an 'M' next to the name of the student taking minutes
+	Anthony Bhasin M
+	Donavon Greene
+	Joey Genau
+	Pranshu Teotia
+	Zijia Chen (Max)
+Tasks completed since last meeting [1-2 minutes]
+	- Discussed JUnit tests and commenting (Javadoc)
+		- Joey did most of the commenting since we ran out of tasks to assign him last meeting.
+	- Everyone came with a testcase in mind.
+Tasks worked upon but not completed since last meeting [2-4 minutes]
+	- We planned to do JUnit tests alone but instead we decided to have a meeting together to do the
+		tests and came up with ideas for test cases.
+Goals for the next meeting [20+ minutes]
+	- Prior to next meeting: Upload phase 1.
+	- Start phase 2 when it assigned.
+Schedule for the next week's set of pair programming meetings [3-4 minutes]

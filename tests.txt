@@ -1,0 +1,17 @@
+ClassName | methodName | Bullet
+edu.buffalo.cse116.junit.Tests.java | testDefineBoard | Defines a Board class contains 25 Location instances
+edu.buffalo.cse116.junit.Tests.java | testReadCodenamesAndStore | Correctly reads codenames from a file named GameWords.txt and stores them in a List
+edu.buffalo.cse116.junit.Tests.java | testSelect25RandomCodeName | Creates List containing 25 distinct codenames selected at random
+edu.buffalo.cse116.junit.Tests.java | testRandomAssignments | Creates List containing randomly generated assignments for each of the 9 Red Agents, 8 Blue Agents, 7 Innocent Bystanders, and 1 Assassin 
+edu.buffalo.cse116.junit.Tests.java | testGameStart | When game started, it is Red team's move and each of Board's 25 Location instances is assigned a codename, Person, and is Not Revealed 
+edu.buffalo.cse116.junit.Tests.java | testIsLegalMethod | Method defined which correctly returns if a clue is legal or illegal (clues cannot equal a current codename unless that codename is in a locations that was already Revealed)
+edu.buffalo.cse116.junit.Tests.java | checkLocationCodenameSelected | Method defined which decrements the count, updates a Location when the Location's codename was selected, and returns if the Location contained the current team's Agent
+edu.buffalo.cse116.junit.Tests.java | checkIfAnyTeamWon | Method defined which correctly returns whether or not the Board is in one of the winning states
+edu.buffalo.cse116.junit.Tests.java | checkWinningTeamCorrect | Method defined which correctly returns which team did not lose (i.e., win) when the Assassin was revealed
+=========================================================================================================================================
+PHASE 3
+=========================================================================================================================================
+edu.buffalo.cse116.junit.Tests.java | PersonAssignmentTest | Creates a List containing randomly generated assignments for each of the 6 Red Agents, 5 Blue Agents, 5 Green Agents, 7 Innocent Bystanders, and 2 Assassins
+edu.buffalo.cse116.junit.Tests.java | WinningState | Method defined which correctly returns whether or not the Board is in one of the winning states
+edu.buffalo.cse116.junit.Tests.java | CheckForTwoAssassin | Method defined which correctly returns which team wins once the 2nd Assassin is revealed
+edu.buffalo.cse116.junit.Tests.java |  | Method which returns which is used at the end of a turn to determine the team whose move is next (this must include the possibility that the next team in the 3-team rotation had previously Revealed an Assassin)
